@@ -1085,7 +1085,7 @@ blockquote.link-element.with-background cite a {
 
 .fullwidth-tabs .tabs-nav {
   min-height: 100px;
-  line-height: 100px;
+  line-height: 50px;
 }
 
 .fullwidth-tabs .tabs-nav ul {
@@ -1104,8 +1104,8 @@ blockquote.link-element.with-background cite a {
 
 .fullwidth-tabs .tabs-nav ul li::after {
   content: '•';
-  margin-left: 60px;
-  margin-right: 60px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .fullwidth-tabs .tabs-nav ul li:last-child::after {
