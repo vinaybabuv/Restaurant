@@ -24,7 +24,19 @@
     11. Responsive
   
   -------------------------------------------------------------------------*/
-
+  .res_body{
+    text-align: center;
+    height: 240px;
+  }
+  .res_name {
+    font-family: 'Raisin des Sables';
+    font-size: 80px;
+    line-height: 50px;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 10px;
+    color: #ffca47;
+  }
 
 @font-face{
   font-family: 'Montserrat-Light';
