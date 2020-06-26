@@ -38,6 +38,10 @@
     color: #ffca47;
   }
 
+.pv12-custom {
+  padding-top: 120px;
+  padding-bottom: 20px;
+}
 @font-face{
   font-family: 'Montserrat-Light';
   src: url(fonts/Montserrat-Light.otf);
